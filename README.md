@@ -24,6 +24,7 @@ I am a blockchain developer and work around exchange build solution
 - [Ruby](https://www.ruby-lang.org/)
 - [Go/Golang](https://golang.org/)
 - [Rust](https://www.rust-lang.org/)
+- [Solidity](https://soliditylang.org/)
 - [Python](https://www.python.org/)
 - [Javascript](https://www.javascript.com/)
 - [TypeScript](https://www.typescriptlang.org/)
