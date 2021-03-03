@@ -17,6 +17,7 @@ I CAN & I WILL.
 I am a blockchain developer and work around exchange build solution
 
 - [bitubu](https://bitubu.com)🌐
+- [turuko](https://www.turuko.com/)🌐
 - [0x1swap](https://0x1.finance/)🌐
 
 ### Programming Languages
