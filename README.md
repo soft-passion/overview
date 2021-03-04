@@ -19,6 +19,7 @@ I am a blockchain developer and work around exchange build solution
 - [bitubu](https://bitubu.com)🌐
 - [turuko](https://www.turuko.com/)🌐
 - [0x1swap](https://0x1.finance/)🌐
+- [ERC20 Generator](https://top1st.github.io/erc20-generator)🌐
 
 ### Programming Languages
 
