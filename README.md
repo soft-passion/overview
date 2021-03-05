@@ -6,12 +6,6 @@
 
 I CAN & I WILL.
 
-### Find me all around the web:
-
-- [LinkedIn](https://www.linkedin.com/in/zhang-xiqian-565956147/) :blush:💻
-- [Telegram](https://t.me/xiqian88) :smirk:
-
-
 ### Some Fun Facts about me:
 
 I am a blockchain developer and work around exchange build solution
@@ -55,6 +49,11 @@ I am a blockchain developer and work around exchange build solution
 - [Android Studio](https://developer.android.com/studio)
 - [JetBrains](https://www.jetbrains.com/)
 - [Visual Studio/VSCode](https://visualstudio.microsoft.com/)
+
+### Find me all around the web:
+
+- [LinkedIn](https://www.linkedin.com/in/zhang-xiqian-565956147/) :blush:💻
+- [Telegram](https://t.me/xiqian88) :smirk:
 
 <!--
 **top1st/top1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
