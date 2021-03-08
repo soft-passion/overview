@@ -52,6 +52,9 @@ I am a blockchain developer and work around exchange build solution
 - [JetBrains](https://www.jetbrains.com/)
 - [Visual Studio/VSCode](https://visualstudio.microsoft.com/)
 
+<!----[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=top1st&show_icons=true&theme=radical)-->
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=top1st&show_icons=true&theme=radical) 
+
 ### Find me all around the web:
 
 - [LinkedIn](https://www.linkedin.com/in/zhang-xiqian-565956147/) :blush:💻
