@@ -66,7 +66,9 @@ I am a blockchain developer and work around exchange build solution
 - [Visual Studio/VSCode](https://visualstudio.microsoft.com/)
 
 <!----[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=top1st&show_icons=true&theme=radical)-->
+ 
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=top1st&show_icons=true&theme=radical) 
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=top1st&show_icons=true&theme=radical) 
 
 ### Find me all around the web:
 
