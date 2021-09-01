@@ -6,6 +6,13 @@
 
 I CAN & I WILL.
 
+### Who is this?
+
+Full experienced Web & Mobile & Desktop Development with top skilled featured.
+Good skilled with Blockchain & Machine Learning & Artificial Intelligent & BigData Process... All top trend technical parts.
+Fast critical issues fixing & Suggest a Good IDEA.
+Lead team members to project success & get a fair reviews.
+
 ### Some Fun Facts about me:
 
 I am a blockchain developer and work around exchange build solution
