@@ -26,6 +26,26 @@ I am a blockchain developer and work around exchange build solution
 - [turuko](https://www.turuko.com/)🌐
 - [0x1swap](https://0x1.finance/)🌐
 
+## Centralized Exchange
+Project | Link | Locate
+:-------------:|:-----------:|:----------|
+Bitubu | https://bitubu.com | Turkey |
+Oboltrade | https://oboltrade.com/ | US |
+
+## Decentralized Exchange
+Project | Link | Blockchain
+:-------------:|:-----------:|:----------|
+MintySwap | https://mintyswap.com/ | ETH |
+RubySwap | https://exchange.rubyswap.finance/swap | Ethergem |
+
+## Token Development
+Project | Link | Blockchain
+:-------------:|:-----------:|:----------|
+Moonwilly | https://moonwilly.com/ | BSC
+Fatoshi | https://www.fatoshi.community/ | BSC
+
+
+
 ### Programming Languages 
 <table style="border-size:0px">
   <tr >
