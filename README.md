@@ -8,13 +8,11 @@ I CAN & I WILL.
 
 ### Who is this?
 
-Full experienced Web & Mobile & Desktop Development with top skilled featured.
+Full experienced BlockChain developer.
 
-Good skilled with Blockchain & Machine Learning & Artificial Intelligent & BigData Process... All top trend technical parts.
+Smart Contract Development, NFT Market Place development, NFT Mint Engine, Dapp development
 
-Fast critical issues fixing & Suggest a Good IDEA.
-
-Lead team members to project success & get a fair reviews.
+Dex(Pancakeswap, uniswap, sushiswap fork), Cross swap & Bridge Development
 
 ### Some Fun Facts about me:
 
@@ -24,7 +22,7 @@ I am a blockchain developer and work around exchange build solution
 - [dapp defi_farm demo](https://topdev102.github.io/)🌐 Testnet
 - [dapp swap demo](https://topswap.github.io/)🌐 Testnet
 - [MoonWilly](https://moonwilly.com/)🌐 Protocol get reward in DAI.
-- [bitubu](https://bitubu.com)🌐
+- [bitubu](https://bitubu.com)🌐 Centralized Crypto Exchange
 - [turuko](https://www.turuko.com/)🌐
 - [0x1swap](https://0x1.finance/)🌐
 
