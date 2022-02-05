@@ -37,6 +37,7 @@ Project | Link | Blockchain
 :-------------:|:-----------:|:----------|
 MintySwap | https://mintyswap.com/ | ETH |
 RubySwap | https://exchange.rubyswap.finance/swap | Ethergem |
+BearwinSwap | https://bearwinswap.com/ | BSC |
 
 ## Token Development
 Project | Link | Blockchain
