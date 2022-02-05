@@ -33,11 +33,11 @@ Bitubu | https://bitubu.com | Turkey |
 Oboltrade | https://oboltrade.com/ | US |
 
 ## Decentralized Exchange
-Project | Link | Blockchain
-:-------------:|:-----------:|:----------|
-MintySwap | https://mintyswap.com/ | ETH |
-RubySwap | https://exchange.rubyswap.finance/swap | Ethergem |
-BearwinSwap | https://bearwinswap.com/ | BSC |
+Project | Link | Blockchain | Image
+:-------------:|:-----------:|:----------|:-------------------------:
+MintySwap | https://mintyswap.com/ | ETH | ![image](https://user-images.githubusercontent.com/23559697/152624036-109b9adf-40ab-4623-b440-34f29a16d2cf.png) |
+RubySwap | https://exchange.rubyswap.finance/swap | Ethergem | ![Screenshot_3](https://user-images.githubusercontent.com/23559697/152623912-c6d6389c-c64a-41d1-90c9-acb3edca378f.png) |
+BearwinSwap | https://bearwinswap.com/ | BSC |![Screenshot_2](https://user-images.githubusercontent.com/23559697/152623733-7962a832-462c-4239-a5f4-53b0e1a53f49.png) |
 
 ## Token Development
 Project | Link | Blockchain
