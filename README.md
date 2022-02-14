@@ -26,6 +26,24 @@ I am a blockchain developer and work around exchange build solution
 - [turuko](https://www.turuko.com/)🌐
 - [0x1swap](https://0x1.finance/)🌐
 
+### 🛠 &nbsp;Tech Stack
+![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)&nbsp;
+![Ethereum](https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=ethereum)&nbsp;
+![ReactNative](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+<br />
+
 ## Centralized Exchange
 Project | Link | Locate
 :-------------:|:-----------:|:----------|
@@ -45,37 +63,6 @@ Project | Link | Blockchain
 :-------------:|:-----------:|:----------|
 Moonwilly | https://moonwilly.com/ | BSC
 Fatoshi | https://www.fatoshi.community/ | BSC
-
-
-
-### Programming Languages 
-<table style="border-size:0px">
-  <tr >
-  <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/rubymine-1175004.png" width="90"> Rails </td>    
-    <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="90"> Node.js</td>
-    <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="90"> React</td>    
-    <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="90"> MySQL</td>            
-    <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/visualstudio-1-1174964.png" width="90"> C/C++ </td>
-    <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/go-76-1175027.png" width="100"> Go</td>   
-      <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" width="90"> Python </td>
-      <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="90"> Laravel </td>
-    <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" width="60"> TypeScript</td>
-    <td style="border: none;"><img class="lazy" src="https://banner2.cleanpng.com/20180411/kjq/kisspng-solidity-ethereum-blockchain-smart-contract-progra-blockchain-5ace81fe0c9514.6143250015234831340515.jpg" width="60"> Solidity </td>
-   </tr>
-  </table>
-
-- [C/C++](https://www.cplusplus.com/)
-- [Ruby](https://www.ruby-lang.org/)
-- [Go/Golang](https://golang.org/)
-- [Rust](https://www.rust-lang.org/)
-- [Solidity](https://soliditylang.org/)
-- [Python](https://www.python.org/)
-- [Javascript](https://www.javascript.com/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [CoffeeScript](https://coffeescript.org/)
-- [Java](https://www.java.com/)
-- [Kotlin](https://kotlinlang.org/)
-- [R](https://www.r-project.org/)
 
 ### Fetured Frameworks
 
