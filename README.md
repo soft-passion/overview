@@ -1,10 +1,8 @@
-### Hey everyone, I'm Xiqian Zhang, CTO on Crionx 👋
-
 <!--
 **top1st/top1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-I CAN & I WILL.
+# I CAN & I WILL Defi, Dex, NFT minting, NFT marketplace, NFT Game Development
 
 ### Who is this?
 
@@ -49,6 +47,12 @@ Project | Link | Locate
 :-------------:|:-----------:|:----------|
 Bitubu | https://bitubu.com | Turkey |
 Oboltrade | https://oboltrade.com/ | US |
+
+## NFT Minting Site
+Project | Link | Blockchain | Image
+:---:|:---:| :---:| :---:|
+Arenaapes | https://arenaapes.com | ETH | ![image](https://user-images.githubusercontent.com/23559697/154282461-61b3778b-96c4-461e-9c7f-75a9139e4a53.png) <br> Arena
+
 
 ## Decentralized Exchange
 Project | Link | Blockchain | Image
