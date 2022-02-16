@@ -95,10 +95,9 @@ Fatoshi | https://www.fatoshi.community/ | BSC
  <br/> <br/>
   ![Profile views](https://gpvc.arturio.dev/top1st)  
 
-### Find me all around the web:
+### Find me:
 
-- [LinkedIn](https://www.linkedin.com/in/zhang-xiqian-565956147/) :blush:💻
-- [Telegram](https://t.me/xiqian88) :smirk:
+- [Telegram](https://t.me/NFTisFun) :smirk:
 
 <!--
 **top1st/top1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
