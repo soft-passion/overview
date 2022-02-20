@@ -68,25 +68,6 @@ Project | Link | Blockchain
 Moonwilly | https://moonwilly.com/ | BSC
 Fatoshi | https://www.fatoshi.community/ | BSC
 
-### Fetured Frameworks
-
-- [Ruby on Rails](https://rubyonrails.org/)
-- [Laravel](https://laravel.com/)
-- [Flutter](https://flutter.dev/)
-- [Wordpress](https://wordpress.com/)
-
-
-### Fetured Libraries
-
-- [React](https://reactjs.org/)
-- [Vue](https://vuejs.org/)
-- [OpenCV](https://opencv.org/)
-
-### Fetured Development Tools
-
-- [Android Studio](https://developer.android.com/studio)
-- [JetBrains](https://www.jetbrains.com/)
-- [Visual Studio/VSCode](https://visualstudio.microsoft.com/)
 
 <!----[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=top1st&show_icons=true&theme=radical)-->
  
