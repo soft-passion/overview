@@ -51,7 +51,6 @@ Oboltrade | https://oboltrade.com/ | US |
 ## NFT Minting Site
 Project | Link | Blockchain | Image
 :---:|:---:| :---:| :---:|
-Arenaapes | https://arenaapes.com | ETH | ![image](https://user-images.githubusercontent.com/23559697/154282461-61b3778b-96c4-461e-9c7f-75a9139e4a53.png) <br> Arena
 Dopeheads | https://dopeheads.com/ | ETH | ![image](https://user-images.githubusercontent.com/23559697/158931918-94cf7cc1-2899-471c-b677-ca12dae0e93a.png) <br> Dopeheads
 
 
