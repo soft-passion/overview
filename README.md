@@ -2,7 +2,7 @@
 **top1st/top1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-# I CAN & I WILL Defi, Dex, NFT minting, NFT marketplace, NFT Game Development
+# I CAN & I WILL Defi, Dex, Smart Contract Development, NFT minting, staking, NFT marketplace, NFT Game Development
 
 ### Who is this?
 
