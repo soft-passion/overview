@@ -35,8 +35,8 @@
 
 <!----[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=top1st&show_icons=true&theme=radical)-->
  
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=top1st&show_icons=true&theme=radical) 
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=top1st&show_icons=true&theme=radical&langs_count=14&layout=compact&hide=html,php,css,javascript) 
+<!--  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=top1st&show_icons=true&theme=radical) 
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=top1st&show_icons=true&theme=radical&langs_count=14&layout=compact&hide=html,php,css,javascript)  -->
  <br/> <br/>
   ![Profile views](https://gpvc.arturio.dev/top1st)  
 
