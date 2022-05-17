@@ -2,27 +2,11 @@
 **top1st/top1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-# I CAN & I WILL Defi, Dex, Smart Contract Development, NFT minting, staking, NFT marketplace, NFT Game Development
+# Full Stack Blockchain Engineer.
 
-### Who is this?
+### Who am I?
 
-Full experienced BlockChain developer.
-
-Smart Contract Development, NFT Market Place development, NFT Mint Engine, Dapp development
-
-Dex(Pancakeswap, uniswap, sushiswap fork), Cross swap & Bridge Development
-
-### Some Fun Facts about me:
-
-I am a blockchain developer and work around exchange build solution
-
-- [ERC20 Generator](https://top1st.github.io/erc20-generator)🌐
-- [dapp defi_farm demo](https://topdev102.github.io/)🌐 Testnet
-- [dapp swap demo](https://topswap.github.io/)🌐 Testnet
-- [MoonWilly](https://moonwilly.com/)🌐 Protocol get reward in DAI.
-- [bitubu](https://bitubu.com)🌐 Centralized Crypto Exchange
-- [turuko](https://www.turuko.com/)🌐
-- [0x1swap](https://0x1.finance/)🌐
+I build Defi, Dex, Smart contracts, NFT minting, staking, NFT marketplace, NFT Game Development and Cross swap & Bridge
 
 ### 🛠 &nbsp;Tech Stack
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)&nbsp;
@@ -41,6 +25,14 @@ I am a blockchain developer and work around exchange build solution
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 <br />
+
+### My featured projects:
+
+- [ERC20 Generator](https://top1st.github.io/erc20-generator)🌐
+- [MoonWilly](https://moonwilly.com/)🌐 Protocol get reward in DAI.
+- [bitubu](https://bitubu.com)🌐 Centralized Crypto Exchange
+- [turuko](https://www.turuko.com/)🌐
+- [0x1swap](https://0x1.finance/)🌐
 
 ## Centralized Exchange
 Project | Link | Locate
