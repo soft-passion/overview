@@ -44,7 +44,8 @@
 
 [![telegram](https://user-images.githubusercontent.com/23559697/168880880-31e2979b-c077-4dbb-9c89-40e39e657080.png)](https://t.me/NFTisFun)
 [![discord](https://user-images.githubusercontent.com/23559697/168879714-bf64acf3-48c9-4c8c-8507-fbbb7bf07481.png)](https://discordapp.com/users/450483984112025610)
-
+[![skype](https://user-images.githubusercontent.com/23559697/168881725-6f9ddf34-7dfa-4820-9ae9-863353928596.png)](https://join.skype.com/invite/QBkK3WP02jTh)
+[![mail](https://user-images.githubusercontent.com/23559697/168882584-d8a64bc4-6194-4e6c-b792-46e68a5e25c2.png)](mailto:top1st102@gmail.com)
 
 
 
