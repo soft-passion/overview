@@ -6,7 +6,7 @@
 
 ### Who am I?
 
-I build Defi, Dex, Smart contracts, NFT minting, staking, NFT marketplace, NFT Game Development and Cross swap & Bridge
+#### I build Defi, Dex, Smart contracts, NFT minting, staking, NFT marketplace, NFT Game Development and Cross swap & Bridge
 
 ### My featured projects:
 
