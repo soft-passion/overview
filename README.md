@@ -12,7 +12,7 @@
 
 | ERC20 Token Generator | Crypto Trading Platform | Decentralized Exchange | NFT Website |
 :---:|:---:| :---:| :---:|
-<img src="https://user-images.githubusercontent.com/23559697/168871987-662ebf15-d150-4432-a8df-46a12b53e2ba.png" width="200"/><br/><a href="https://top1st.github.io/erc20-generator/">Erc20 Generator</a> | <img src="https://user-images.githubusercontent.com/23559697/168872077-014fad28-5522-471e-90b3-c4cc62281297.png" width="200"/><br/><a href="https://bitubu.com/en/trading/btcusdt">Bitubu</a> | <img src="https://user-images.githubusercontent.com/23559697/168872115-143ce7dc-f97d-40df-9494-75acbb89530e.png" width="200"/><br/><a href="https://pxswap.io/swap">Pxswap<a/> | <img src="https://user-images.githubusercontent.com/23559697/168872476-e266d61e-48b8-4df6-95fb-903b2e6a2f63.png" width="200"/><br/><a href="https://dopeheads.com/">Dopehead</a>
+<img src="https://user-images.githubusercontent.com/23559697/168871987-662ebf15-d150-4432-a8df-46a12b53e2ba.png" width="200"/><br/><a href="https://top1st.github.io/erc20-generator/">ERC20 Generator</a> | <img src="https://user-images.githubusercontent.com/23559697/168872077-014fad28-5522-471e-90b3-c4cc62281297.png" width="200"/><br/><a href="https://bitubu.com/en/trading/btcusdt">Bitubu</a> | <img src="https://user-images.githubusercontent.com/23559697/168872115-143ce7dc-f97d-40df-9494-75acbb89530e.png" width="200"/><br/><a href="https://pxswap.io/swap">Pxswap<a/> | <img src="https://user-images.githubusercontent.com/23559697/168872476-e266d61e-48b8-4df6-95fb-903b2e6a2f63.png" width="200"/><br/><a href="https://dopeheads.com/">Dopehead</a>
 <img src="https://user-images.githubusercontent.com/23559697/168874696-fe4525ea-2dc0-42b3-ab48-6da2d68f050b.png" width="200"/><br/><a href="https://top1st.github.io/bep20-generator/create-token/">BEP20 Generator</a> | <img src="https://user-images.githubusercontent.com/23559697/168874975-57bb3804-32d3-4e3e-9ce1-7bf680d53c25.png" width="200"/><br/><a href="https://oboltrade.com/">Oboltrade</a> | <img src="https://user-images.githubusercontent.com/23559697/168875390-d237211d-6f75-40c6-9050-197f523d8e9f.png" width="200"/><br/><a href="https://demo.silverlineswap.org/">Silverline<a/> | <img src="https://user-images.githubusercontent.com/23559697/168876320-90ac3234-b3e1-43d8-b72c-c59c5f179b61.png" width="200"/><br/><a href="https://www.fatoshi.community/home">Fatoshi</a>
 
 ### 🛠 &nbsp;Tech Stack
@@ -42,7 +42,10 @@
 
 ### Contact me:
 
-[![telegram](https://user-images.githubusercontent.com/23559697/168878408-d8817437-12a0-4930-bf02-1c8d1d1391c8.png)](https://t.me/NFTisFun)
+[![telegram](https://user-images.githubusercontent.com/23559697/168880880-31e2979b-c077-4dbb-9c89-40e39e657080.png)](https://t.me/NFTisFun)
+[![discord](https://user-images.githubusercontent.com/23559697/168879714-bf64acf3-48c9-4c8c-8507-fbbb7bf07481.png)](https://discordapp.com/users/450483984112025610)
+
+
 
 
 <!--
