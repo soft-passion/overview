@@ -8,6 +8,14 @@
 
 I build Defi, Dex, Smart contracts, NFT minting, staking, NFT marketplace, NFT Game Development and Cross swap & Bridge
 
+### My featured projects:
+
+| ERC20 Token Generator | Crypto Trading Platform | Decentralized Exchange | NFT Minting Website |
+:---:|:---:| :---:| :---:|
+<img src="https://user-images.githubusercontent.com/23559697/168871987-662ebf15-d150-4432-a8df-46a12b53e2ba.png" width="200"/> | <img src="https://user-images.githubusercontent.com/23559697/168872077-014fad28-5522-471e-90b3-c4cc62281297.png" width="200"/> | <img src="https://user-images.githubusercontent.com/23559697/168872115-143ce7dc-f97d-40df-9494-75acbb89530e.png" width="200"/> | <img src="https://user-images.githubusercontent.com/23559697/168872476-e266d61e-48b8-4df6-95fb-903b2e6a2f63.png" width="200"/>
+| <a href="https://top1st.github.io/erc20-generator/">Erc20 Generator</a> | <a href="https://bitubu.com/en/trading/btcusdt">Bitubu</a> | <a href="https://pxswap.io/swap">Pxswap<a/> | <a href="https://dopeheads.com/">Dopehead</a> |
+
+
 ### 🛠 &nbsp;Tech Stack
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)&nbsp;
 ![Ethereum](https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=ethereum)&nbsp;
@@ -26,13 +34,6 @@ I build Defi, Dex, Smart contracts, NFT minting, staking, NFT marketplace, NFT G
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 <br />
 
-### My featured projects:
-
-- [ERC20 Generator](https://top1st.github.io/erc20-generator)🌐
-- [MoonWilly](https://moonwilly.com/)🌐 Protocol get reward in DAI.
-- [bitubu](https://bitubu.com)🌐 Centralized Crypto Exchange
-- [turuko](https://www.turuko.com/)🌐
-- [0x1swap](https://0x1.finance/)🌐
 
 ## Centralized Exchange
 Project | Link | Locate
