@@ -40,9 +40,10 @@
  <br/> <br/>
   ![Profile views](https://gpvc.arturio.dev/top1st)  
 
-### Find me:
+### Contact me:
 
-- [Telegram](https://t.me/NFTisFun) :smirk:
+[![telegram](https://user-images.githubusercontent.com/23559697/168878408-d8817437-12a0-4930-bf02-1c8d1d1391c8.png)](https://t.me/NFTisFun){:target="_blank"}
+
 
 <!--
 **top1st/top1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
