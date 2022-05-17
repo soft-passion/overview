@@ -42,7 +42,7 @@
 
 ### Contact me:
 
-[![telegram](https://user-images.githubusercontent.com/23559697/168878408-d8817437-12a0-4930-bf02-1c8d1d1391c8.png)](https://t.me/NFTisFun){:target="_blank"}
+[![telegram](https://user-images.githubusercontent.com/23559697/168878408-d8817437-12a0-4930-bf02-1c8d1d1391c8.png)](https://t.me/NFTisFun)
 
 
 <!--
