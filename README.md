@@ -22,6 +22,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 <br />
 
+![softpassion's github stats](https://github-readme-stats.vercel.app/api?username=davidsoft318&show_icons=true&theme=default) 
+![softpassion's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=davidsoft318&show_icons=true&theme=default) 
+
 <!----[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=top1st&show_icons=true&theme=radical)-->
  
 <!--  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=top1st&show_icons=true&theme=radical) 
